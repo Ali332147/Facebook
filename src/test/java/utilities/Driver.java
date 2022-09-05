@@ -29,6 +29,7 @@ public class Driver {
 			System.out.println("Selenium Webdriver Script in Chrome");
 			driver.close();
 			System.out.println("first commit");
+			System.out.println("checking my repo");
 		}
 		return driver;
 	}
