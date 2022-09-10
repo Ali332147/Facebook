@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="5.517">
+    <testcase classname="Test SignUp page functionality" name="Test Signup Page" time="5.352">
+        <system-out><![CDATA[Given User is in signup page................................................passed
+When User enters all required fields........................................passed
+Then User should be signed up successfully..................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

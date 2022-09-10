@@ -18,4 +18,7 @@ public class LoginPage {
  @FindBy (id ="pass")// FindBy is using for replacement of driver. findelement
  public WebElement userpassword;
  
+ @FindBy (name ="login")// FindBy is using for replacement of driver. findelement
+ public WebElement login;
+ 
 }
